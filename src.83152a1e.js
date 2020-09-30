@@ -3,4 +3,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./styles.css"),console.log("hello world!");
 },{"./styles.css":"Tnu0"}]},{},["Focm"], null)
-//# sourceMappingURL=/start-parcel-tailwindcss/src.83152a1e.js.map
+//# sourceMappingURL=https://tommypratama.github.io/start-parcel-tailwindcss/src.83152a1e.js.map
